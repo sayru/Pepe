@@ -8,7 +8,7 @@ public class Coche {
 	
 	
 	public Coche(String matricula, int cilindrada, int caballos) {
-		
+		// Este coche es mio
 		this.matricula = matricula;
 		this.cilindrada = cilindrada;
 		this.caballos = caballos;
